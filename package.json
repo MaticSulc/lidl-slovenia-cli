@@ -4,8 +4,8 @@
     "dotenv": "^17.2.1",
     "puppeteer": "^24.15.0"
   },
-  "name": "lidlstock-si",
-  "description": "Na spletni strani www.lidl.si lahko pred obiskom trgovine preverite razpoložljivost naših akcijskih neprehrambnih izdelkov (razen hrane) za tekoči teden.",
+  "name": "lidl-slovenia-cli",
+  "description": "A CLI tool to fetch Lidl Slovenia stock information",
   "version": "1.0.0",
   "main": "index.js",
   "devDependencies": {},
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MaticSulc/LidlStock-SI.git"
+    "url": "git+https://github.com/MaticSulc/lidl-slovenia-cli.git"
   },
   "keywords": [
     "lidl",
@@ -24,7 +24,7 @@
   "author": "Matic Šulc",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MaticSulc/LidlStock-SI/issues"
+    "url": "https://github.com/MaticSulc/lidl-slovenia-cli/issues"
   },
-  "homepage": "https://github.com/MaticSulc/LidlStock-SI#readme"
+  "homepage": "https://github.com/MaticSulc/lidl-slovenia-cli#readme"
 }
