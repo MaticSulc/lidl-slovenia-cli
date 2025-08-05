@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "cli-table3": "^0.6.5",
+    "dotenv": "^17.2.1",
+    "puppeteer": "^24.15.0"
+  },
+  "name": "lidlstock-si",
+  "description": "Na spletni strani www.lidl.si lahko pred obiskom trgovine preverite razpoložljivost naših akcijskih neprehrambnih izdelkov (razen hrane) za tekoči teden.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaticSulc/LidlStock-SI.git"
+  },
+  "keywords": [
+    "lidl",
+    "stock",
+    "slovenia"
+  ],
+  "author": "Matic Šulc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaticSulc/LidlStock-SI/issues"
+  },
+  "homepage": "https://github.com/MaticSulc/LidlStock-SI#readme"
+}

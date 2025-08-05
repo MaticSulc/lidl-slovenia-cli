@@ -1,0 +1,640 @@
+[
+  {
+    "id": "201",
+    "address": "Cesta svobode 5, 8250 Brežice",
+    "postalCode": "8250",
+    "latitude": 45.90453,
+    "longitude": 15.60274,
+    "services": []
+  },
+  {
+    "id": "202",
+    "address": "Tržaska cesta, 2000 Maribor",
+    "postalCode": "2000",
+    "latitude": 46.53422,
+    "longitude": 15.64469,
+    "services": []
+  },
+  {
+    "id": "203",
+    "address": "Ljubljanska cesta 67 A, 1330 Kočevje",
+    "postalCode": "1330",
+    "latitude": 45.64801,
+    "longitude": 14.85392,
+    "services": []
+  },
+  {
+    "id": "207",
+    "address": "Ronkova ulica 39, 2380 Slovenj Gradec",
+    "postalCode": "2380",
+    "latitude": 46.504,
+    "longitude": 15.08887,
+    "services": [
+      "Electric Car Charger"
+    ]
+  },
+  {
+    "id": "208",
+    "address": "Dobja vas 120 A, 2390 Ravne na Koroškem",
+    "postalCode": "2390",
+    "latitude": 46.54443,
+    "longitude": 14.94712,
+    "services": [
+      "Electric Car Charger"
+    ]
+  },
+  {
+    "id": "209",
+    "address": "Šuceva ulica, 4000 Kranj",
+    "postalCode": "4000",
+    "latitude": 46.24322,
+    "longitude": 14.37785,
+    "services": []
+  },
+  {
+    "id": "210",
+    "address": "Skladiščna ulica, 4270 Jesenice",
+    "postalCode": "4270",
+    "latitude": 46.43089,
+    "longitude": 14.06215,
+    "services": [
+      "Electric Car Charger"
+    ]
+  },
+  {
+    "id": "211",
+    "address": "Kolodvorska cesta 5, 6000 Koper",
+    "postalCode": "6000",
+    "latitude": 45.5423,
+    "longitude": 13.73529,
+    "services": []
+  },
+  {
+    "id": "212",
+    "address": "Reška cesta, 6230 Postojna",
+    "postalCode": "6230",
+    "latitude": 45.77121,
+    "longitude": 14.19869,
+    "services": [
+      "Electric Car Charger"
+    ]
+  },
+  {
+    "id": "214",
+    "address": "Bakovnik 3 b, 1241 Kamnik",
+    "postalCode": "1241",
+    "latitude": 46.21026,
+    "longitude": 14.59973,
+    "services": []
+  },
+  {
+    "id": "216",
+    "address": "Ljutomerska cesta 16, 9250 Gornja Radgona",
+    "postalCode": "9250",
+    "latitude": 46.66934,
+    "longitude": 15.99699,
+    "services": []
+  },
+  {
+    "id": "217",
+    "address": "Novi trg 18, 3000 Celje",
+    "postalCode": "3000",
+    "latitude": 46.24988,
+    "longitude": 15.26091,
+    "services": [
+      "Hot Drinks"
+    ]
+  },
+  {
+    "id": "218",
+    "address": "Ljubljanska cesta 150, 1230 Domžale",
+    "postalCode": "1230",
+    "latitude": 46.14701,
+    "longitude": 14.60375,
+    "services": [
+      "Electric Car Charger"
+    ]
+  },
+  {
+    "id": "219",
+    "address": "Kolodvorska ulica 7 B, 9220 Lendava",
+    "postalCode": "9220",
+    "latitude": 46.55943,
+    "longitude": 16.44842,
+    "services": []
+  },
+  {
+    "id": "221",
+    "address": "Letališka cesta, 1000 Ljubljana",
+    "postalCode": "1000",
+    "latitude": 46.06394,
+    "longitude": 14.54363,
+    "services": [
+      "Electric Car Charger"
+    ]
+  },
+  {
+    "id": "223",
+    "address": "Štrbenkova cesta, 3320 Velenje",
+    "postalCode": "3320",
+    "latitude": 46.36071,
+    "longitude": 15.10692,
+    "services": []
+  },
+  {
+    "id": "224",
+    "address": "Liptovska ulica 38 g, 3210 Slovenske Konjice",
+    "postalCode": "3210",
+    "latitude": 46.34068,
+    "longitude": 15.4184,
+    "services": [
+      "Electric Car Charger"
+    ]
+  },
+  {
+    "id": "226",
+    "address": "Tovarniška cesta, 5270 Ajdovščina",
+    "postalCode": "5270",
+    "latitude": 45.88376,
+    "longitude": 13.90439,
+    "services": []
+  },
+  {
+    "id": "227",
+    "address": "Koroška cesta, 4000 Kranj",
+    "postalCode": "4000",
+    "latitude": 46.24992,
+    "longitude": 14.34618,
+    "services": [
+      "Hot Drinks"
+    ]
+  },
+  {
+    "id": "230",
+    "address": "Ulica 11. Novembra 55, 8273 Leskovec pri Krškem",
+    "postalCode": "8273",
+    "latitude": 45.93781,
+    "longitude": 15.48408,
+    "services": []
+  },
+  {
+    "id": "232",
+    "address": "Mariborska cesta 23, 3000 Celje",
+    "postalCode": "3000",
+    "latitude": 46.23489,
+    "longitude": 15.26955,
+    "services": [
+      "Hot Drinks"
+    ]
+  },
+  {
+    "id": "233",
+    "address": "Koroška cesta, 2000 Maribor",
+    "postalCode": "2000",
+    "latitude": 46.56501,
+    "longitude": 15.62319,
+    "services": []
+  },
+  {
+    "id": "235",
+    "address": "Drofenikova ulica 11, 3230 Šentjur",
+    "postalCode": "3230",
+    "latitude": 46.21452,
+    "longitude": 15.39059,
+    "services": []
+  },
+  {
+    "id": "236",
+    "address": "Sinja Gorica 106c, 1360 Vrhnika",
+    "postalCode": "1360",
+    "latitude": 45.97681,
+    "longitude": 14.30612,
+    "services": [
+      "Disabled Parking"
+    ]
+  },
+  {
+    "id": "237",
+    "address": "Dobrava 45, 2360 Radlje ob Dravi",
+    "postalCode": "2360",
+    "latitude": 46.61386,
+    "longitude": 15.20822,
+    "services": [
+      "Electric Car Charger"
+    ]
+  },
+  {
+    "id": "239",
+    "address": "Vodenska cesta 51, 1420 Trbovlje",
+    "postalCode": "1420",
+    "latitude": 46.14568,
+    "longitude": 15.03923,
+    "services": []
+  },
+  {
+    "id": "241",
+    "address": "Ježa 2D, 1270 Litija",
+    "postalCode": "1270",
+    "latitude": 46.05945,
+    "longitude": 14.83763,
+    "services": []
+  },
+  {
+    "id": "246",
+    "address": "Žolgarjeva ulica, 2310 Slovenska Bistrica",
+    "postalCode": "2310",
+    "latitude": 46.38632,
+    "longitude": 15.57049,
+    "services": [
+      "Hot Drinks"
+    ]
+  },
+  {
+    "id": "247",
+    "address": "Ulica Veljka Vlahovića, 2000 Maribor",
+    "postalCode": "2000",
+    "latitude": 46.54686,
+    "longitude": 15.67514,
+    "services": []
+  },
+  {
+    "id": "249",
+    "address": "Grenc 53, 4220 Škofja Loka",
+    "postalCode": "4220",
+    "latitude": 46.17215,
+    "longitude": 14.3203,
+    "services": []
+  },
+  {
+    "id": "250",
+    "address": "Cesta Ste Marie aux Mines 25, 4290 Tržič",
+    "postalCode": "4290",
+    "latitude": 46.35354,
+    "longitude": 14.29176,
+    "services": []
+  },
+  {
+    "id": "255",
+    "address": "Ulica 21. oktobra 13 B, 8340 Črnomelj",
+    "postalCode": "8340",
+    "latitude": 45.57639,
+    "longitude": 15.1878,
+    "services": []
+  },
+  {
+    "id": "256",
+    "address": "Litijska cesta 53, 1000 Ljubljana",
+    "postalCode": "1000",
+    "latitude": 46.04806,
+    "longitude": 14.54801,
+    "services": [
+      "Electric Car Charger",
+      "Parking Garage"
+    ]
+  },
+  {
+    "id": "266",
+    "address": "Gotoveljska cesta 11, 3310 Žalec",
+    "postalCode": "3310",
+    "latitude": 46.25545,
+    "longitude": 15.15438,
+    "services": [
+      "Electric Car Charger"
+    ]
+  },
+  {
+    "id": "268",
+    "address": "Hraška cesta, 4248 Lesce",
+    "postalCode": "4248",
+    "latitude": 46.36622,
+    "longitude": 14.15908,
+    "services": [
+      "Hot Drinks",
+      "Electric Car Charger"
+    ]
+  },
+  {
+    "id": "269",
+    "address": "Celovška cesta, 1000 Ljubljana",
+    "postalCode": "1000",
+    "latitude": 46.10034,
+    "longitude": 14.45852,
+    "services": []
+  },
+  {
+    "id": "270",
+    "address": "Ljubljanska cesta 27, 8000 Novo mesto",
+    "postalCode": "8000",
+    "latitude": 45.81498,
+    "longitude": 15.15346,
+    "services": []
+  },
+  {
+    "id": "271",
+    "address": "Betettova cesta 3, 1000 Ljubljana",
+    "postalCode": "1000",
+    "latitude": 46.01928,
+    "longitude": 14.53117,
+    "services": [
+      "Electric Car Charger"
+    ]
+  },
+  {
+    "id": "272",
+    "address": "Ormoška cesta, 2250 Ptuj",
+    "postalCode": "2250",
+    "latitude": 46.41734,
+    "longitude": 15.88164,
+    "services": [
+      "Electric Car Charger"
+    ]
+  },
+  {
+    "id": "273",
+    "address": "Liminjanska cesta 107, 6320 Portorož",
+    "postalCode": "6320",
+    "latitude": 45.50754,
+    "longitude": 13.61493,
+    "services": [
+      "Parking Garage"
+    ]
+  },
+  {
+    "id": "274",
+    "address": "Partizanska cesta 71 B, 6210 Sežana",
+    "postalCode": "6210",
+    "latitude": 45.70481,
+    "longitude": 13.85933,
+    "services": []
+  },
+  {
+    "id": "275",
+    "address": "Ulica Štefana Kovača, 9000 Murska Sobota",
+    "postalCode": "9000",
+    "latitude": 46.66138,
+    "longitude": 16.14646,
+    "services": []
+  },
+  {
+    "id": "276",
+    "address": "Bežigrad 11, 1000 Ljubljana",
+    "postalCode": "1000",
+    "latitude": 46.06386,
+    "longitude": 14.50655,
+    "services": [
+      "Hot Drinks",
+      "Electric Car Charger",
+      "Parking Garage"
+    ]
+  },
+  {
+    "id": "277",
+    "address": "Šempeterska cesta 1, 5000 Nova Gorica",
+    "postalCode": "5000",
+    "latitude": 45.94101,
+    "longitude": 13.63801,
+    "services": []
+  },
+  {
+    "id": "278",
+    "address": "Ulica I. Internacionale 35, 2000 Maribor",
+    "postalCode": "2000",
+    "latitude": 46.54813,
+    "longitude": 15.62175,
+    "services": [
+      "Hot Drinks",
+      "Electric Car Charger"
+    ]
+  },
+  {
+    "id": "279",
+    "address": "Ptujska cesta 192, 2000 Maribor",
+    "postalCode": "2000",
+    "latitude": 46.52693,
+    "longitude": 15.67327,
+    "services": [
+      "Hot Drinks",
+      "Electric Car Charger"
+    ]
+  },
+  {
+    "id": "281",
+    "address": "Hermanova cesta 30, 8290 Sevnica",
+    "postalCode": "8290",
+    "latitude": 46.01445,
+    "longitude": 15.29183,
+    "services": [
+      "Electric Car Charger"
+    ]
+  },
+  {
+    "id": "284",
+    "address": "Lendavska ulica 60A, 9000 Murska Sobota",
+    "postalCode": "9000",
+    "latitude": 46.66624,
+    "longitude": 16.1763,
+    "services": [
+      "Hot Drinks",
+      "Electric Car Charger"
+    ]
+  },
+  {
+    "id": "285",
+    "address": "Volkmerjeva cesta 26a, 2250 Ptuj",
+    "postalCode": "2250",
+    "latitude": 46.42836,
+    "longitude": 15.86818,
+    "services": [
+      "Hot Drinks",
+      "Electric Car Charger"
+    ]
+  },
+  {
+    "id": "286",
+    "address": "Toplarniška ulica 10, 1000 Ljubljana",
+    "postalCode": "1000",
+    "latitude": 46.0569,
+    "longitude": 14.54377,
+    "services": [
+      "Electric Car Charger"
+    ]
+  },
+  {
+    "id": "289",
+    "address": "Cesta dr. Jožeta Pučnika 8, 1290 Grosuplje",
+    "postalCode": "1290",
+    "latitude": 45.96408,
+    "longitude": 14.6388,
+    "services": [
+      "Electric Car Charger"
+    ]
+  },
+  {
+    "id": "291",
+    "address": "Merharjeva ulica, 1310 Ribnica",
+    "postalCode": "1310",
+    "latitude": 45.73914,
+    "longitude": 14.73229,
+    "services": [
+      "Disabled Parking",
+      "Parking"
+    ]
+  },
+  {
+    "id": "292",
+    "address": "Slivniška cesta 3, 2311 Hoče",
+    "postalCode": "2311",
+    "latitude": 46.4996,
+    "longitude": 15.6498,
+    "services": []
+  },
+  {
+    "id": "293",
+    "address": "Stari trg 46, 8210 Trebnje",
+    "postalCode": "8210",
+    "latitude": 45.90664,
+    "longitude": 15.02129,
+    "services": [
+      "Hot Drinks",
+      "Electric Car Charger"
+    ]
+  },
+  {
+    "id": "294",
+    "address": "Vilharjeva cesta 13, 6250 Ilirska Bistrica",
+    "postalCode": "6250",
+    "latitude": 45.57159,
+    "longitude": 14.2374,
+    "services": [
+      "Electric Car Charger"
+    ]
+  },
+  {
+    "id": "296",
+    "address": "Cesta Marežganskega upora 2 A, 6000 Koper",
+    "postalCode": "6000",
+    "latitude": 45.52974,
+    "longitude": 13.736,
+    "services": [
+      "Hot Drinks",
+      "Electric Car Charger",
+      "Free Wi-Fi"
+    ]
+  },
+  {
+    "id": "297",
+    "address": "Industrijska ulica 5, 2000 Maribor",
+    "postalCode": "2000",
+    "latitude": 46.5601,
+    "longitude": 15.65916,
+    "services": []
+  },
+  {
+    "id": "298",
+    "address": "Božičeva ulica 1, 1000 Ljubljana",
+    "postalCode": "1000",
+    "latitude": 46.07577,
+    "longitude": 14.52058,
+    "services": [
+      "Hot Drinks",
+      "Electric Car Charger",
+      "Parking Garage"
+    ]
+  },
+  {
+    "id": "299",
+    "address": "Hardek 44 h, 2270 Ormož",
+    "postalCode": "2270",
+    "latitude": 46.41196,
+    "longitude": 16.16367,
+    "services": [
+      "Hot Drinks",
+      "Electric Car Charger"
+    ]
+  },
+  {
+    "id": "300",
+    "address": "Slovenčeva ulica 95, 1000 Ljubljana",
+    "postalCode": "1000",
+    "latitude": 46.08561,
+    "longitude": 14.50757,
+    "services": [
+      "Hot Drinks",
+      "Electric Car Charger"
+    ]
+  },
+  {
+    "id": "302",
+    "address": "Titova cesta 15, 2000 Maribor",
+    "postalCode": "2000",
+    "latitude": 46.55144,
+    "longitude": 15.65214,
+    "services": []
+  },
+  {
+    "id": "304",
+    "address": "Slovenska cesta, 1000 Ljubljana",
+    "postalCode": "1000",
+    "latitude": 46.049,
+    "longitude": 14.50211,
+    "services": [
+      "Parking Garage",
+      "Free Wi-Fi"
+    ]
+  },
+  {
+    "id": "305",
+    "address": "Industrijska ulica 45, 2230 Lenart v Slov. goricah",
+    "postalCode": "2230",
+    "latitude": 46.5849,
+    "longitude": 15.83873,
+    "services": [
+      "Hot Drinks",
+      "Electric Car Charger"
+    ]
+  },
+  {
+    "id": "306",
+    "address": "Frankopanska ulica 1a, 1000 Ljubljana",
+    "postalCode": "1000",
+    "latitude": 46.06151,
+    "longitude": 14.4974,
+    "services": [
+      "Hot Drinks",
+      "Electric Car Charger",
+      "Parking Garage"
+    ]
+  },
+  {
+    "id": "307",
+    "address": "Masarykova cesta 6, 1000 Ljubljana",
+    "postalCode": "1000",
+    "latitude": 46.05713,
+    "longitude": 14.51384,
+    "services": [
+      "Hot Drinks",
+      "Electric Car Charger",
+      "Parking Garage"
+    ]
+  },
+  {
+    "id": "309",
+    "address": "Rakuševa ulica 2, 1000 Ljubljana",
+    "postalCode": "1000",
+    "latitude": 46.07693,
+    "longitude": 14.48359,
+    "services": []
+  },
+  {
+    "id": "315",
+    "address": "Tržaška cesta 155, 1000 Ljubljana",
+    "postalCode": "1000",
+    "latitude": 46.03584,
+    "longitude": 14.46344,
+    "services": [
+      "Hot Drinks",
+      "Electric Car Charger",
+      "Parking Garage"
+    ]
+  }
+]
